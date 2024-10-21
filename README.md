@@ -12,12 +12,15 @@
 
 </div>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I am currently learning about web and mobile application development and container development in Docker.\
-🌱 &nbsp;I want to learn more about artificial intelligence and mobile development.\
-✍️ &nbsp;In my free time, I am busy reading about history, politics, sports and new things in the world.\
-💬 &nbsp;Ready for communication on any topics, as long as they are not about the weather of course).\
-👨‍💻👩‍💻 &nbsp;Like to work in a team and find solutions together.
+<div style="font-size: 20px">
+  <p>💡 &nbsp;I like to explore new technologies and develop software solutions.</p>
+  <p>🎓 &nbsp;I am currently learning about web and mobile application development and container development in Docker.</p>
+  <p>🌱 &nbsp;I want to learn more about artificial intelligence and mobile development.</p>
+  <p>✍️ &nbsp;In my free time, I am busy reading about history, politics, sports and new things in the world.</p>
+  <p>💬 &nbsp;Ready for communication on any topics, as long as they are not about the weather of course).</p>
+  <p>👨‍💻👩‍💻 &nbsp;Like to work in a team and find solutions together.</p>
+</div>
+
 
 <br>
 
