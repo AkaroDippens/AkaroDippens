@@ -32,7 +32,8 @@
 
 <div align="center">
   
-  ![Android](https://img.shields.io/badge/-Android-3ec57a?style=flat&logo=android&logoColor=FFFFFF)&nbsp;
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)&nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFFFFF)&nbsp;
@@ -47,12 +48,17 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF)&nbsp;
+  ![PlantUML](https://img.shields.io/badge/-PlantUML-32C854?style=flat&logo=plantuml&logoColor=FFFFFF)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=00C853)&nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=FFFFFF)&nbsp;
   ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=FFFFFF)&nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=FFFFFF)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=00C853)&nbsp;
+  ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=xml&logoColor=FFFFFF)&nbsp;
+
 
 </div>
 
