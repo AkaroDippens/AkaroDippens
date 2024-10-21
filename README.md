@@ -66,8 +66,8 @@
 
 <p align="center">
 <a href="https://github.com/AkaroDippens">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkaroDippens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkaroDippens&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkaroDippens&theme=algolia"/>
+  <img height="172em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkaroDippens&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="172em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkaroDippens&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="172em" src="https://github-readme-streak-stats.herokuapp.com/?user=AkaroDippens&theme=algolia"/>
 </a>
 </p>
