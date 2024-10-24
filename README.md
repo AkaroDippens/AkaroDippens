@@ -34,10 +34,12 @@
   
   ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF)&nbsp;
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF)&nbsp;
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=FFFFFF)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF)&nbsp;
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=FFFFFF)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF)&nbsp;
+  ![Draw.io](https://img.shields.io/badge/-Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=FFFFFF)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
@@ -46,9 +48,11 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=FF0000)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
+  ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=FFFFFF)&nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=FFFFFF)&nbsp;
   ![PlantUML](https://img.shields.io/badge/-PlantUML-32C854?style=flat&logo=plantuml&logoColor=FFFFFF)&nbsp;
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd54)&nbsp;
   ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=00C853)&nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=FFFFFF)&nbsp;
@@ -58,8 +62,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=FFFFFF)&nbsp;
   ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=00C853)&nbsp;
   ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=xml&logoColor=FFFFFF)&nbsp;
-
-
+  
 </div>
 
 <br>
